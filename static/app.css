@@ -1,4 +1,4 @@
-.image-size {
-    max-width: 200px;
-    height: auto;
-  }
+img {
+  max-width: 200px;
+  height: auto;
+}
